@@ -1,15 +1,6 @@
-## Understanding Python GUI
-
-This is a grade calculator GUI application written in Python using the tkinter and ttk modules. This application is intended to be used by students who want to calculate their final grade based on their scores and weights for assignments, quizzes, and exams.
-
-## Getting Started
-
-To get started, simply download the code from the repository and run the "grade_calculator.py" file. This will open up the GUI window where you can input the scores and weights for each category.
+### GRADE CALCULATOR
 
 ## Usage
+Have you ever wondered what your final grade will be? Do you want to make sure you're on track to getting the grade you want? Well, the Grade Calculator is here to help!
 
-The application provides input fields for the user to enter their scores and weights for each category. Once the user has entered all the necessary information, they can click the "Calculate Grade" button to calculate their final grade. The final grade is displayed in the grade table below the input fields.
-
-# Your Task
-
-The calculate_grade function is currently empty and needs to be filled out in order for the grade calculator to work properly. You should complete this function as part of your project. The grade_table also needs to be updated to display the final grade properly.
+Let's say you have a math class and your final grade is based on three categories: assignments, quizzes, and exams. You received a score of 80% on your assignments, 90% on your quizzes, and 85% on your exams. But wait, your assignments were worth 40% of your grade, your quizzes were worth 30%, and your exams were worth 30%. How do you calculate your final grade?
